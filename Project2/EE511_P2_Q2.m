@@ -1,4 +1,4 @@
-function P2_Q1()
+function P2_Q2()
 No_of_samples=input('enter the number of sample required:');
 Xk=rand(1,No_of_samples);
 shift_value_by=[1 2 3];%use to shift Xk by 1,2 and 3 units.
